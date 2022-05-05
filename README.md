@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Automation with python**
 
-- 👨‍💻 All of my projects are available at [www.aarjuaryal.com.np](www.aarjuaryal.com.np)
+- 👨‍💻 All of my projects are available at [https://www.aarjuaryal.com.np](https://www.aarjuaryal.com.np)
 
 - 📝 I regularly write articles on [www.aarjuaryal.com.np](www.aarjuaryal.com.np)
 

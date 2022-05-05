@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.aarjuaryal.com.np](https://www.aarjuaryal.com.np)
 
-- 📝 I regularly write articles on [www.aarjuaryal.com.np](www.aarjuaryal.com.np)
+- 📝 I regularly write articles on [https://www.aarjuaryal.com.np](https://www.aarjuaryal.com.np)
 
 - 📫 How to reach me **aarjuaryal44@gmail.com**
 
